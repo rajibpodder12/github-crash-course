@@ -1,5 +1,6 @@
 ## GitHub-Crash-Course
-#### This is demo repository for practicing
+#### This is demo repository for practicing.
+#### Learn and enjoy
 
 `
 def function(n1,n2):
